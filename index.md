@@ -7,4 +7,5 @@ I hope you enjoy !
 
 
 [Click here to learn about distinguishing art in different eras](/_posts/2021-10-02-art-eras.md)
+
 [Click here to find resources for learning art history!](/_posts/2021-10-02-resources.md)
