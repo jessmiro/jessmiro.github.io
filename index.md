@@ -7,6 +7,6 @@ I hope you enjoy !
 
 [About Me](/about-me.md)
 
-[Click here to learn about distinguishing art in different eras](/_posts/2021-10-02-art-eras.md)
+[Visit a museum near you !](/finding-museums.md)
 
 [Click here to find resources for learning art history!](/resources.md)
