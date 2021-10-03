@@ -1,3 +1,8 @@
+---
+title: "Resources to learning about Art History"
+date: 2021-10-02
+---
+
 There are a ton of resources out there for learning about art history, a few of my favorites include:
 
 1. [Art History with Travis Lee Clark](https://www.youtube.com/channel/UCD0yYUsx9vpuhu2dkk8_a9w)
