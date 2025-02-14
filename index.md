@@ -12,7 +12,7 @@ your valentines
       document.location = '/daniela.html';
     }
     else
-    document.location = 'index.html';
+    location.href = 'index.html';
     // document.location = '/' + document.getElementById('userId').value();
   }
 </script>
