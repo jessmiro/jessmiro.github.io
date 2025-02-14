@@ -1,18 +1,20 @@
 your valentines
 ---
 
-<form>
-  <input id="userID" maxlength="3">
-  <input onclick="return findProject()" type="submit" value="Go">
+<form onSubmit="return redirectPg();">
+  <input id="userID" type="text" maxlength="3" />
+  <input type="submit" class="submit" value="SUBMIT" />  
+  <!-- <input onclick="return findProject()" type="submit" value="Go"/> -->
 </form>
 
 <script>
-  function findProject(){
-    if (document.getElementById('userId').value = 'hi'){
-      location.href = '/resources.html';
+  function redirectPg(){
+    var response = document.getElementById('userID').value;
+    if (response == "hi"){
+      location = 'https://jessmiro.github.io/resources.html';
     }
     else {
-    location.href = 'about-me.html';
+      location = 'https://jessmiro.github.io/about-me.html';
     }
     // document.location = '/' + document.getElementById('userId').value();
   }
