@@ -8,11 +8,12 @@ your valentines
 
 <script>
   function findProject(){
-    if (document.getElementById('userId').value = '111'){
+    if (document.getElementById('userId').value = 'hi'){
       location.href = '/resources.html';
     }
-    else
-    location.href = 'index.html';
+    else {
+    location.href = 'about-me.html';
+    }
     // document.location = '/' + document.getElementById('userId').value();
   }
 </script>
