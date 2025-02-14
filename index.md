@@ -11,10 +11,10 @@ your valentines
   function redirectPg(){
     var response = document.getElementById('userID').value;
     if (response == "hi"){
-      location = 'https://jessmiro.github.io/resources.html';
+      location.href = 'https://jessmiro.github.io/resources.html';
     }
     else {
-      location = 'https://jessmiro.github.io/about-me.html';
+      location.href = 'https://jessmiro.github.io/about-me.html';
     }
     return false;
     // document.location = '/' + document.getElementById('userId').value();
