@@ -16,6 +16,7 @@ your valentines
     else {
       location = 'https://jessmiro.github.io/about-me.html';
     }
+    return false;
     // document.location = '/' + document.getElementById('userId').value();
   }
 </script>
