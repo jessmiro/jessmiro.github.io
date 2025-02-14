@@ -9,7 +9,7 @@ your valentines
 <script>
   function findProject(){
     if (document.getElementById('userId').value() = '111'){
-      document.location = '/daniela.html';
+      document.location = 'daniela.html';
     }
     else
     location.href = 'index.html';
