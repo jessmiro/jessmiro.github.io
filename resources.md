@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Resources to learning about Art History"
 ---
 
@@ -11,4 +11,4 @@ There are a ton of resources out there for learning about art history, a few of 
     * EdX provides some free "learn at your own pace" courses for art history, and while there isn't a big selection, it can still be useful !
 
 3. [HielBrunn Timeline of Art History](https://www.metmuseum.org/toah/)
-    * The Met Museum has a timeline of the art in their collection, which includes essays and pictures of the art itself.
+    * The Met Museum has a timeline of the art in their collection, which includes essays and pictures of the art itself. -->
