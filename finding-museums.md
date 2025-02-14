@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Finding Museums for Art
 ---
 
@@ -11,4 +11,5 @@ This is a great resource to find art museums in any state you're in, if you want
 If you want to visit a museum at the comfort of your home, or don't want to fly across the world to visit, Google offers a "virtual museum" for Musee D'orsay in Paris ! Just click on the art you're interested in, and a description will come up.
 
 [Free Museum Visits in Washington State](https://lowincomerelief.com/free-museum-in-washington-state/)  
-This page also has some information regarding free days for museums in Washington state, and while they might not be going on in 2021 due to covid, it's still a nice thing to keep in mind !
+This page also has some information regarding free days for museums in Washington state, and while they might not be going on in 2021 due to covid, it's still a nice thing to keep in mind ! -->
+
