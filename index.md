@@ -1,13 +1,13 @@
 your valentines
 ---
 
-<form onSubmit="return redirectPg();">
+<!-- <form onSubmit="return redirectPg();">
   <input id="userID" type="text" maxlength="3" />
   <input type="submit" class="submit" value="SUBMIT" />  
-  <!-- <input onclick="return findProject()" type="submit" value="Go"/> -->
-</form>
+  <!-- <input onclick="return findProject()" type="submit" value="Go"/> 
+</form> -->
 
-<script>
+<!-- <script>
   function redirectPg(){
     var response = document.getElementById('userID').value;
     if (response == "hi"){
@@ -19,4 +19,7 @@ your valentines
     return false;
     // document.location = '/' + document.getElementById('userId').value();
   }
-</script>
+</script> -->
+<a href="https://jessmiro.github.io/daniela.html">
+    <img src=".jpg" alt="Clickable Image">
+</a>
