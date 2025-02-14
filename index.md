@@ -21,5 +21,5 @@ your valentines
   }
 </script> -->
 <a href="https://jessmiro.github.io/daniela.html">
-    <img src=".jpg" alt="Clickable Image">
+    <img src="hearttttttt.png" alt="Clickable Image">
 </a>
