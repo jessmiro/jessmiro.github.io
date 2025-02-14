@@ -20,6 +20,27 @@ your valentines
     // document.location = '/' + document.getElementById('userId').value();
   }
 </script> -->
+
+<a href="https://jessmiro.github.io/casey.html">
+    <img src="casey1.png" alt="Clickable Image">
+</a>
+
 <a href="https://jessmiro.github.io/daniela.html">
-    <img src="hearttttttt.png" alt="Clickable Image">
+    <img src="daniela1.png" alt="Clickable Image">
+</a>
+
+<a href="https://jessmiro.github.io/fahimah.html">
+    <img src="fahimah1.png" alt="Clickable Image">
+</a>
+
+<a href="https://jessmiro.github.io/lulu.html">
+    <img src="lulu1.png" alt="Clickable Image">
+</a>
+
+<a href="https://jessmiro.github.io/rebecca.html">
+    <img src="rebecca1.png" alt="Clickable Image">
+</a>
+
+<a href="https://jessmiro.github.io/venessa.html">
+    <img src="venessa1.png" alt="Clickable Image">
 </a>
