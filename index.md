@@ -8,7 +8,7 @@ your valentines
 
 <script>
   function findProject(){
-    if (document.getElementById('userId').value() = '111'){
+    if (document.getElementById('userId').value = '111'){
       location.href = '/resources.html';
     }
     else
